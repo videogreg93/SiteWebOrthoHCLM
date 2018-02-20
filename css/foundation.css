@@ -52,6 +52,15 @@ body {
 	background-image: url(../images/light_grey.png);
 }
 
+.mainImage {
+  max-width: 600px;
+  /*max-height: 600px*/
+}
+
+.text-small {
+  font-size: 14px;
+}
+
 .navigation {
 	color: #A4A3A3;
 	background-color: brown;
